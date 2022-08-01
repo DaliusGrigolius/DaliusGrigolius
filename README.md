@@ -1,7 +1,7 @@
 Hi 👋 My name is Dalius Grigolius
 =================================
 
-graduate from Code Academy
+Code Academy graduate
 ----------------------
 
 I try to learn more than I learned yesterday
