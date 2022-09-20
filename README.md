@@ -8,7 +8,7 @@ I try to learn more than I learned yesterday
 
 * 🌍  I'm based in Klaipėda, Lithuania
 * ✉️  You can contact me at [dalius.grigolius@gmail.com](mailto:dalius.grigolius@gmail.com)
-* 🧠  I'm learning c#
+* 🧠  Currently i'm learning React and C#
 
 <a href="https://www.github.com/DaliusGrigolius" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DaliusGrigolius?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
