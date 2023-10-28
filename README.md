@@ -1,14 +1,15 @@
 Hi 👋 My name is Dalius Grigolius
 =================================
 
-Code Academy graduate
+Code Academy graduate.
+Web App Developer at "AB Optilon" from 2023.08.14
 ----------------------
 
 I try to learn more than I learned yesterday
 
 * 🌍  I'm based in Klaipėda, Lithuania
 * ✉️  You can contact me at [dalius.grigolius@gmail.com](mailto:dalius.grigolius@gmail.com)
-* 🧠  Currently i'm learning .NET MAUI, React, Unity and C#
+* 🧠  Currently i'm learning Vue.js, Ms SQL, Dev Extreme.
 
 <a href="https://www.github.com/DaliusGrigolius" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DaliusGrigolius?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
