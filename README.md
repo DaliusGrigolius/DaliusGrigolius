@@ -9,7 +9,7 @@ I try to learn more than I learned yesterday
 
 * 🌍  I'm based in Klaipėda, Lithuania
 * ✉️  You can contact me at [dalius.grigolius@gmail.com](mailto:dalius.grigolius@gmail.com)
-* 🧠  Currently i'm learning/working with Vue.js(Nuxt, vue 3, pinia).
+* 🧠  Currently i'm learning Github Copilot(using custom agents and prompts, MD's), and working with Vue.js(Nuxt, vue 3, pinia).
 
 <a href="https://www.github.com/DaliusGrigolius" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DaliusGrigolius?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
